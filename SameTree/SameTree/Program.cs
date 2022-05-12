@@ -16,9 +16,9 @@ namespace stp01
             tree.insert(1);
 
             Tree tree2 = new Tree();
-            tree.insert(1);
-            tree.insert(2);
-            tree.insert(1);
+            tree2.insert(1);
+            tree2.insert(2);
+            tree2.insert(1);
 
             Console.WriteLine(tree.equals(tree2));
 
