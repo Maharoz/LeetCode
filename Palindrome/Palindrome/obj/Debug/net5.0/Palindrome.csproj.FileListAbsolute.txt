@@ -1,0 +1,16 @@
+H:\LeetCode\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.exe
+H:\LeetCode\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+H:\LeetCode\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+H:\LeetCode\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+H:\LeetCode\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.dll
+H:\LeetCode\Palindrome\Palindrome\bin\Debug\net5.0\ref\Palindrome.dll
+H:\LeetCode\Palindrome\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.csproj.AssemblyReference.cache
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.dll
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+H:\LeetCode\Palindrome\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache
