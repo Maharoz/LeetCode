@@ -1,0 +1,16 @@
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\net5.0\SearchInsertPosition.exe
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\net5.0\SearchInsertPosition.deps.json
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\net5.0\SearchInsertPosition.runtimeconfig.json
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\net5.0\SearchInsertPosition.runtimeconfig.dev.json
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\net5.0\SearchInsertPosition.dll
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\net5.0\ref\SearchInsertPosition.dll
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\bin\Debug\net5.0\SearchInsertPosition.pdb
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.csproj.AssemblyReference.cache
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.AssemblyInfoInputs.cache
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.AssemblyInfo.cs
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.dll
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\ref\SearchInsertPosition.dll
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.pdb
+H:\LeetCode\SearchInsertPosition\SearchInsertPosition\obj\Debug\net5.0\SearchInsertPosition.genruntimeconfig.cache

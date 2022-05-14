@@ -3,6 +3,8 @@ using static RemoveDuplicate.LinkedList;
 
 namespace RemoveDuplicate
 {
+
+    //https://leetcode.com/problems/remove-duplicates-from-sorted-list/
     class Program
     {
         static void Main(string[] args)
