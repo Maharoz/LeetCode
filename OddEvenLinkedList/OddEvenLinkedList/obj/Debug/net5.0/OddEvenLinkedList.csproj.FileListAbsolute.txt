@@ -1,0 +1,16 @@
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\net5.0\OddEvenLinkedList.exe
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\net5.0\OddEvenLinkedList.deps.json
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\net5.0\OddEvenLinkedList.runtimeconfig.json
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\net5.0\OddEvenLinkedList.runtimeconfig.dev.json
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\net5.0\OddEvenLinkedList.dll
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\net5.0\ref\OddEvenLinkedList.dll
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\bin\Debug\net5.0\OddEvenLinkedList.pdb
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.csproj.AssemblyReference.cache
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.AssemblyInfoInputs.cache
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.AssemblyInfo.cs
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.csproj.CoreCompileInputs.cache
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.dll
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\ref\OddEvenLinkedList.dll
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.pdb
+H:\LeetCode\OddEvenLinkedList\OddEvenLinkedList\obj\Debug\net5.0\OddEvenLinkedList.genruntimeconfig.cache
