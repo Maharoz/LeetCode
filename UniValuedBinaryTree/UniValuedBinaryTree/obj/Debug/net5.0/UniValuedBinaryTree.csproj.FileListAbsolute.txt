@@ -1,0 +1,16 @@
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\bin\Debug\net5.0\UniValuedBinaryTree.exe
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\bin\Debug\net5.0\UniValuedBinaryTree.deps.json
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\bin\Debug\net5.0\UniValuedBinaryTree.runtimeconfig.json
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\bin\Debug\net5.0\UniValuedBinaryTree.runtimeconfig.dev.json
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\bin\Debug\net5.0\UniValuedBinaryTree.dll
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\bin\Debug\net5.0\ref\UniValuedBinaryTree.dll
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\bin\Debug\net5.0\UniValuedBinaryTree.pdb
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.csproj.AssemblyReference.cache
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.AssemblyInfoInputs.cache
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.AssemblyInfo.cs
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.csproj.CoreCompileInputs.cache
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.dll
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\ref\UniValuedBinaryTree.dll
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.pdb
+H:\LeetCode\UniValuedBinaryTree\UniValuedBinaryTree\obj\Debug\net5.0\UniValuedBinaryTree.genruntimeconfig.cache
