@@ -1,0 +1,15 @@
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\bin\Debug\net5.0\SomeOfLeftLeaves.exe
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\bin\Debug\net5.0\SomeOfLeftLeaves.deps.json
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\bin\Debug\net5.0\SomeOfLeftLeaves.runtimeconfig.json
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\bin\Debug\net5.0\SomeOfLeftLeaves.runtimeconfig.dev.json
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\bin\Debug\net5.0\SomeOfLeftLeaves.dll
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\bin\Debug\net5.0\ref\SomeOfLeftLeaves.dll
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\bin\Debug\net5.0\SomeOfLeftLeaves.pdb
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\SomeOfLeftLeaves.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\SomeOfLeftLeaves.AssemblyInfoInputs.cache
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\SomeOfLeftLeaves.AssemblyInfo.cs
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\SomeOfLeftLeaves.csproj.CoreCompileInputs.cache
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\SomeOfLeftLeaves.dll
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\ref\SomeOfLeftLeaves.dll
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\SomeOfLeftLeaves.pdb
+H:\LeetCode\SomeOfLeftLeaves\SomeOfLeftLeaves\obj\Debug\net5.0\SomeOfLeftLeaves.genruntimeconfig.cache

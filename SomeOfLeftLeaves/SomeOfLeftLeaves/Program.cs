@@ -2,29 +2,27 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RangeSumOfBST
+namespace SomeOfLeftLeaves
 {
 
-    //https://leetcode.com/problems/range-sum-of-bst/
+    //https://leetcode.com/problems/sum-of-left-leaves/
     class Program
     {
         static void Main(string[] args)
         {
             Tree tree = new Tree();
-            tree.insert(10);
-            tree.insert(5);
-            tree.insert(15);
             tree.insert(3);
+            tree.insert(9);
+            tree.insert(20);
+            tree.insert(15);
             tree.insert(7);
-            tree.insert(18);
 
-            tree.RangeSumBST(tree.root,7,15);
+            tree.sumOfLeftLeave(tree.root);
         }
     }
 
     public class Tree
     {
-
         List<int> x = new List<int>();
         public class Node
         {
@@ -75,32 +73,26 @@ namespace RangeSumOfBST
 
         }
 
-
-
-
-
-        public int RangeSumBST(Node root, int low, int high)
+        public int sumOfLeftLeave(Node root)
         {
             int total = 0;
             if (root == null)
             {
-               
                 return total;
             }
 
-            Console.WriteLine(root.value);
-
-            if (root.value <= high && root.value >= low)
+            if (root.leftChild!= null && root.leftChild.leftChild==null
+                && root.leftChild.rightChild==null
+                )
             {
                 x.Add(root.value);
             }
 
-           
-
-            RangeSumBST(root.leftChild, low, high);
-            RangeSumBST(root.rightChild, low, high);
+            sumOfLeftLeave(root.leftChild);
+            sumOfLeftLeave(root.rightChild);
             total = x.Sum(x => Convert.ToInt32(x));
             return total;
         }
+
     }
 }
