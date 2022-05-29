@@ -2,10 +2,18 @@
 
 namespace MaximumNumberOfWord
 {
+
+    //https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
     class Program
     {
         static void Main(string[] args)
         {
+           
+        }
+
+        public int MostWordsFound(string[] sentences)
+        {
+
             string[] res;
 
             int resSize = 0;
