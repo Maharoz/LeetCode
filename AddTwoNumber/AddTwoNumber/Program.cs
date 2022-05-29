@@ -6,6 +6,7 @@ namespace AddTwoNumber
 {
     class Program
     {
+        //https://leetcode.com/problems/add-two-numbers/
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello World!");
@@ -76,7 +77,7 @@ namespace AddTwoNumber
         private Node lastNew;
 
 
-        private Node resFist;
+        private Node resFirst;
         private Node resLast;
 
         private int count = 0;
@@ -129,14 +130,13 @@ namespace AddTwoNumber
 
         private bool isEmptyRes()
         {
-            return resFist == null;
+            return resFirst == null;
         }
 
 
-        IList<int> fl = new List<int>();
-        IList<int> ll = new List<int>();
-        IList<int> c = new List<int>();
-        int smaller = 0;
+        IList<int> firstList = new List<int>();
+        IList<int> LastList = new List<int>();
+        IList<int> resultList = new List<int>();
         int carry = 0;
         public Node AddTwoNumbers()
         {
@@ -146,7 +146,7 @@ namespace AddTwoNumber
 
             while (true)
             {
-                fl.Add(l1.value);
+                firstList.Add(l1.value);
                 l1 = l1.next;
                 if (l1 == null)
                 {
@@ -156,7 +156,7 @@ namespace AddTwoNumber
 
             while (true)
             {
-                ll.Add(l2.value);
+                LastList.Add(l2.value);
                 l2 = l2.next;
                 if (l2 == null)
                 {
@@ -164,22 +164,22 @@ namespace AddTwoNumber
                 }
             }
 
-            while (fl.Count > ll.Count)
+            while (firstList.Count > LastList.Count)
             {
-                //smaller = fl.Count;
-                ll.Add(0);
+                //smaller = firstList.Count;
+                LastList.Add(0);
 
             }
-            while (fl.Count < ll.Count)
+            while (firstList.Count < LastList.Count)
             {
-                fl.Add(0);
+                firstList.Add(0);
 
             }
          
 
-            for (int x = 0; x < fl.Count; x++)
+            for (int x = 0; x < firstList.Count; x++)
             {
-                int r = fl[x] + ll[x];
+                int r = firstList[x] + LastList[x];
                 if (carry == 1)
                 {
                     r = r + carry;
@@ -191,14 +191,14 @@ namespace AddTwoNumber
                     r = r % 10;
                     carry = 1;
                 }
-                c.Add(r);
+                resultList.Add(r);
             }
 
             if (carry == 1)
             {
-                c.Add(1);
+                resultList.Add(1);
             }
-            foreach(var x in c)
+            foreach(var x in resultList)
             {
                 result = addLastRes(x);
             }
@@ -276,7 +276,7 @@ namespace AddTwoNumber
 
             if (isEmptyRes())
             {
-                resFist = node;
+                resFirst = node;
                 resLast = node;
             }
             else
@@ -284,7 +284,7 @@ namespace AddTwoNumber
                 resLast.next = node;
                 resLast = node;
             }
-            return resFist;
+            return resFirst;
         }
 
         //public Node addFirst(int item)
@@ -292,13 +292,13 @@ namespace AddTwoNumber
         //    var node = new Node(item);
 
         //    if (isEmptyRes())
-        //        resFist = resLast = node;
+        //        resFirst = resLast = node;
         //    else
         //    {
-        //        node.next = resFist;
-        //        resFist = node;
+        //        node.next = resFirst;
+        //        resFirst = node;
         //    }
-        //    return resFist;
+        //    return resFirst;
         //}
         //public static string Reverse(string s)
         //{
@@ -308,17 +308,17 @@ namespace AddTwoNumber
         //}
         //public int numOfZero(Node x)
         //{
-        //    int c = 0;
+        //    int resultList = 0;
         //    while (x.value == 0 )
         //    {
-        //        c++;
+        //        resultList++;
         //        x = x.next;
         //        if (x == null)
         //        {
         //            break;
         //        }
         //    }
-        //    return c;
+        //    return resultList;
 
         //}
 
