@@ -1,0 +1,16 @@
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\bin\Debug\net5.0\RankTransformationOfAnArray.exe
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\bin\Debug\net5.0\RankTransformationOfAnArray.deps.json
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\bin\Debug\net5.0\RankTransformationOfAnArray.runtimeconfig.json
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\bin\Debug\net5.0\RankTransformationOfAnArray.runtimeconfig.dev.json
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\bin\Debug\net5.0\RankTransformationOfAnArray.dll
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\bin\Debug\net5.0\ref\RankTransformationOfAnArray.dll
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\bin\Debug\net5.0\RankTransformationOfAnArray.pdb
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.csproj.AssemblyReference.cache
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.AssemblyInfoInputs.cache
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.AssemblyInfo.cs
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.csproj.CoreCompileInputs.cache
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.dll
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\ref\RankTransformationOfAnArray.dll
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.pdb
+H:\LeetCode\RankTransformationOfAnArray\RankTransformationOfAnArray\obj\Debug\net5.0\RankTransformationOfAnArray.genruntimeconfig.cache
