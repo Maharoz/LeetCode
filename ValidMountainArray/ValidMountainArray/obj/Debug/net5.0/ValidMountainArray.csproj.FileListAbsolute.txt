@@ -1,0 +1,16 @@
+H:\LeetCode\ValidMountainArray\ValidMountainArray\bin\Debug\net5.0\ValidMountainArray.exe
+H:\LeetCode\ValidMountainArray\ValidMountainArray\bin\Debug\net5.0\ValidMountainArray.deps.json
+H:\LeetCode\ValidMountainArray\ValidMountainArray\bin\Debug\net5.0\ValidMountainArray.runtimeconfig.json
+H:\LeetCode\ValidMountainArray\ValidMountainArray\bin\Debug\net5.0\ValidMountainArray.runtimeconfig.dev.json
+H:\LeetCode\ValidMountainArray\ValidMountainArray\bin\Debug\net5.0\ValidMountainArray.dll
+H:\LeetCode\ValidMountainArray\ValidMountainArray\bin\Debug\net5.0\ref\ValidMountainArray.dll
+H:\LeetCode\ValidMountainArray\ValidMountainArray\bin\Debug\net5.0\ValidMountainArray.pdb
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.csproj.AssemblyReference.cache
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.AssemblyInfoInputs.cache
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.AssemblyInfo.cs
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.csproj.CoreCompileInputs.cache
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.dll
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ref\ValidMountainArray.dll
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.pdb
+H:\LeetCode\ValidMountainArray\ValidMountainArray\obj\Debug\net5.0\ValidMountainArray.genruntimeconfig.cache
