@@ -1,0 +1,16 @@
+H:\LeetCode\ReOrderList\ReOrderList\bin\Debug\net5.0\ReOrderList.exe
+H:\LeetCode\ReOrderList\ReOrderList\bin\Debug\net5.0\ReOrderList.deps.json
+H:\LeetCode\ReOrderList\ReOrderList\bin\Debug\net5.0\ReOrderList.runtimeconfig.json
+H:\LeetCode\ReOrderList\ReOrderList\bin\Debug\net5.0\ReOrderList.runtimeconfig.dev.json
+H:\LeetCode\ReOrderList\ReOrderList\bin\Debug\net5.0\ReOrderList.dll
+H:\LeetCode\ReOrderList\ReOrderList\bin\Debug\net5.0\ref\ReOrderList.dll
+H:\LeetCode\ReOrderList\ReOrderList\bin\Debug\net5.0\ReOrderList.pdb
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.csproj.AssemblyReference.cache
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.AssemblyInfoInputs.cache
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.AssemblyInfo.cs
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.csproj.CoreCompileInputs.cache
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.dll
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ref\ReOrderList.dll
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.pdb
+H:\LeetCode\ReOrderList\ReOrderList\obj\Debug\net5.0\ReOrderList.genruntimeconfig.cache
