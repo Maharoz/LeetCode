@@ -12,16 +12,7 @@ namespace ShuffleTheArray
             int[] x = { 2, 5, 1, 3, 4, 7 };
             int n = 3;
 
-            //int[] arrOne = new int[n];
-            //int[] arrTwo = new int[n];
-
-            //for(int i = 0; i < x.Length; i++)
-            //{
-            //    if (i >= n)
-            //    {
-            //        arrTwo
-            //    }
-            //}
+           
             int i = 1;
             int j = n;
             int temp=0;
