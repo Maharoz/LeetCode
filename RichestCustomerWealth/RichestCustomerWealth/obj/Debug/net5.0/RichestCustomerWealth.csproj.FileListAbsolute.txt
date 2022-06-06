@@ -1,0 +1,16 @@
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.exe
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.deps.json
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.runtimeconfig.json
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.runtimeconfig.dev.json
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.dll
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\ref\RichestCustomerWealth.dll
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.pdb
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.csproj.AssemblyReference.cache
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.GeneratedMSBuildEditorConfig.editorconfig
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.AssemblyInfoInputs.cache
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.AssemblyInfo.cs
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.csproj.CoreCompileInputs.cache
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.dll
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\ref\RichestCustomerWealth.dll
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.pdb
+H:\LeetCode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.genruntimeconfig.cache
