@@ -77,40 +77,5 @@ namespace DeleteMiddleOfLinkedList
             return head;
         }
 
-        public Node reverse(Node head)
-        {
-            Node prev = null;
-            Node current_node = head;
-
-            while (current_node != null)
-            {
-                Node next_node = current_node.next;
-                current_node.next = prev;
-                prev = current_node;
-                current_node = next_node;
-
-            }
-            return prev;
-        }
-
-        public void merge(Node l1, Node l2)
-        {
-            while (l1 != null)
-            {
-                Node l1_next = l1.next;
-                Node l2_next = l2.next;
-
-                l1.next = l2;
-
-                if (l1_next == null)
-                {
-                    break;
-                }
-
-                l2.next = l1_next;
-                l1 = l1_next;
-                l2 = l2_next;
-            }
-        }
     }
 }
