@@ -2,6 +2,8 @@
 
 namespace MergeSortedArray
 {
+
+    //https://leetcode.com/problems/merge-sorted-array/
     class Program
     {
         static void Main(string[] args)
@@ -16,7 +18,7 @@ namespace MergeSortedArray
                 return;
             }
 
-            if (m == 0)
+            if (m == 0 && nums1.Length == 0)
             {
                 nums1 = nums2;
                 return;
