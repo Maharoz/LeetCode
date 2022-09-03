@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// https://leetcode.com/problems/asteroid-collision/submissions/
 
 int[] x = {10,2,-5 };
 AsteroidCollision(x);
@@ -16,8 +16,8 @@ AsteroidCollision(x);
 
     for(int i =1; i < asteriods.Length; i++)
     {
-        //while (true)
-        //{
+        while (true)
+        {
             if (stack.Count > 0 && stack.Peek() > 0 && asteriods[i] < 0){
                 if (Math.Abs(stack.Peek()) == Math.Abs(asteriods[i]))
                 {
@@ -36,7 +36,7 @@ AsteroidCollision(x);
                 stack.Push(asteriods[i]);
                 break;
             }
-      //  }
+        }
     }
     return stack.Reverse().ToArray();
 }
