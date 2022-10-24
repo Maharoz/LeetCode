@@ -48,14 +48,14 @@ namespace IsSubsequent
                 result = true;
             }
             
-            if(s== "leeeeetcode")
-            {
-                if (t.Length > res.Length)
-                {
-                    return false;
-                }
-                else { return true; }
-            }
+            //if(s== "leeeeetcode")
+            //{
+            //    if (res.Length > s.Length)
+            //    {
+            //        return false;
+            //    }
+            //    else { return true; }
+            //}
 
             return result;
         }
