@@ -1,0 +1,15 @@
+*.cache
+*.suo
+*.sln
+*.csproj.nuget.g.props
+*.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+*.dll
+*.json
+*.pdb
+*.exe
+*.txt
+*.editorconfig
+*.g.cs
+*.g.targets
+*.AssemblyInfo.cs
+*.csproj
