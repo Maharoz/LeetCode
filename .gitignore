@@ -13,3 +13,8 @@
 *.g.targets
 *.AssemblyInfo.cs
 *.csproj
+*.vs/ProjectEvaluation/runningsum.metadata.v5.1
+PivotIndex/PivotIndex/obj/Debug/net6.0/_IsIncrementalBuild
+*.vs/ProjectEvaluation/runningsum.projects.v5.1
+*.vs/RunningSum/DesignTimeBuild/.dtbcache.v2
+
