@@ -18,3 +18,5 @@ PivotIndex/PivotIndex/obj/Debug/net6.0/_IsIncrementalBuild
 *.vs/ProjectEvaluation/runningsum.projects.v5.1
 *.vs/RunningSum/DesignTimeBuild/.dtbcache.v2
 
+/LongestSubstringWithoutRepeatingChracter/LongestSubstringWithoutRepeatingChracter/obj/Debug/net6.0
+/LongestSubstringWithoutRepeatingChracter/.vs/LongestSubstringWithoutRepeatingChracter/DesignTimeBuild
