@@ -6,7 +6,7 @@
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1, 2, 3 };
+            int[] nums = { 1, 2, 2 };
             IList<IList<int>> resultList = new List<IList<int>>();
             backTrack(resultList, new List<int>(), nums, 0);
             Console.WriteLine(resultList);
