@@ -9,6 +9,7 @@ namespace IntersectionOfTwoArray
             int[] nums1 = { 4, 9, 5 };
             int[] nums2 = { 9, 4, 9, 8, 4 };
             Intersect(nums1, nums2);
+
         }
 
         static int[] Intersect(int[] nums1, int[] nums2)
