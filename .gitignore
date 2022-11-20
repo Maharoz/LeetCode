@@ -83,3 +83,7 @@ PivotIndex/PivotIndex/obj/Debug/net6.0/_IsIncrementalBuild
 /MinimumCostOfBuyingCandy/.vs
 /MissingNumber/.vs/MissingNumber/DesignTimeBuild
 /MissingNumber/obj/Debug/net6.0
+/MissingNumber/.vs
+/FindTheDuplicateNumber/.vs/FindTheDuplicateNumber/FileContentIndex
+*.BuildWithSkipAnalyzers
+/FindTheDuplicateNumber/obj/Debug/net6.0
