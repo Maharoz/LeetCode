@@ -36,7 +36,7 @@ namespace TwoSum
 				}
 			}
 
-			return result.Select(i => i -1).ToArray();
+			return result;
 		}
 	}
 
