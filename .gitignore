@@ -1,6 +1,5 @@
 *.cache
 *.suo
-*.sln
 *.csproj.nuget.g.props
 *.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
 *.dll
