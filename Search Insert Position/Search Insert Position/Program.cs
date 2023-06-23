@@ -12,9 +12,12 @@
 	{
 		public int SearchInsert(int[] nums, int target)
 		{
-			for(int i = nums[0];i< nums.Length-1;i++)
+			int midPoint = nums.Length / 2;
+			int startPoint = 0;
+			while (nums[midPoint] < target)
 			{
-				if(target=)
+				startPoint= midPoint + 1;
+
 			}
 		}
 	}
