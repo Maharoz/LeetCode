@@ -10,7 +10,7 @@
 		public static int LengthOfLastWord(string s)
 		{
 			int length = 0;
-			for(int i = s.Length - 1; i >= 0; i++)
+			for(int i = s.Length - 1; i >= 0; i--)
 			{
 				if (s[i] != ' ')
 				{
