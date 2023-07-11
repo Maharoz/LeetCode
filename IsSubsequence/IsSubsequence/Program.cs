@@ -24,7 +24,7 @@
 
 		while(t_pointer < t.Length)
 			{
-				if (tArr[t_pointer] != sArr[s_pointer])
+				if (tArr[t_pointer] == sArr[s_pointer])
 				{
 					s_pointer++;
 					if(s_pointer == s.Length)
