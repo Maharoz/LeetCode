@@ -21,11 +21,6 @@ namespace CoinChange
 			for(int i =1;i<=amount;i++)
 			{
 				minCoinsDP[i] = int.MaxValue;
-
-				//for(int j = 0; j < coins.Length; j++)
-				//{
-				//	if(coin<=i && minCoinsDP[i-coin] !=)
-				//}
 				foreach(int coin in coins)
 				{
 					if (coin <= i && minCoinsDP[i - coin] != int.MaxValue)
