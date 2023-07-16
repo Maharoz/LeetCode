@@ -18,6 +18,10 @@ namespace LicenceFormat
 			int clusterSize = sa.Length/k;
 			int firstCluster = sa.Length % k;
 
+			if(firstCluster == 0 && clusterSize==0) {
+				return s;
+					}
+
 			for(int i = 0;i< firstCluster; i++)
 			{
 				sb.Append(sa[i]);
