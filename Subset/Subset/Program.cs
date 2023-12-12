@@ -16,12 +16,12 @@ public class Solution
 		if (nums == null || nums.Length == 0)
 			return res;
 
-		Backtrack(nums, 0, new List<int>());
+		Backtrack( 0, new List<int>(), nums);
 
 		return res;
 	}
 
-	private void Backtrack(int[] nums, int i, List<int> cur)
+	private void Backtrack( int i, List<int> cur, int[] nums)
 	{
 		res.Add(new List<int>(cur));
 
@@ -32,7 +32,7 @@ public class Solution
 		{
 			cur.Add(nums[j]);
 
-			Backtrack(nums, j + 1, cur);
+			Backtrack( j + 1, cur,nums);
 
 			cur.RemoveAt(cur.Count - 1);
 		}
