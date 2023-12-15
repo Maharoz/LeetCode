@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheDifferenece", "FindTheDifferenece\FindTheDifferenece.csproj", "{92A8B48B-4F98-46EA-B3A2-C7342C9779FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92A8B48B-4F98-46EA-B3A2-C7342C9779FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A8B48B-4F98-46EA-B3A2-C7342C9779FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A8B48B-4F98-46EA-B3A2-C7342C9779FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A8B48B-4F98-46EA-B3A2-C7342C9779FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D04E61-CD68-446B-8488-5FEA23B4B318}
+	EndGlobalSection
+EndGlobal
