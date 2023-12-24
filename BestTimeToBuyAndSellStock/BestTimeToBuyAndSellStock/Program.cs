@@ -8,44 +8,28 @@ namespace BestTimeToBuyAndSellStock
 	{
 		static void Main(string[] args)
 		{
-			//Console.WriteLine("Hello, World!");
 			int[] prices = { 7, 1, 5, 3, 6, 4 };
 			MaxProfit(prices);
 		}
 
 		public static int MaxProfit(int[] prices)
 		{
-			int max = 0;
-			int profit = 0;
-			for(int i = 0; i < prices.Length-1; i++)
+			int buyingPrice = prices[0];
+			int currentProfit = 0;
+			int maxProfit = 0;
+
+			for(int i = 0; i < prices.Length; i++)
 			{
-				int[] arr = SubArrayBuilder.SubArray(prices,i+1, prices.Length-(i+1));
-				int maxSubArrVal=arr.Max();
-				if (prices[i]< maxSubArrVal)
+				buyingPrice = Math.Min(buyingPrice, prices[i]);
+				if (prices[i] > buyingPrice)
 				{
-					profit =  maxSubArrVal- prices[i];
-				}
+                    currentProfit= prices[i]-buyingPrice; 
+                }
+				maxProfit = Math.Max(maxProfit, currentProfit);
 
-				max= Math.Max(max, profit);
-
-			}
-
-			//Brute force solution=> will give TLE on some case
-			//int temp = 0;
-			//for (int i = prices.Length-1; i > 0; i--)
-			//{
-			//	for(int j = i - 1; j >= 0; j--)
-			//	{
-			//		if (prices[i] > prices[j])
-			//		{
-			//			temp = prices[i] - prices[j];
-			//		}
-			//		max=Math.Max(max, temp);
-			//	}
-				
+            }
 			
-			//}
-			return max;
+			return maxProfit;
 		}
 
 	}
