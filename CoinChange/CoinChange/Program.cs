@@ -8,8 +8,8 @@ namespace CoinChange
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello, World!");
-			int[] x = { 1,3,5 };
-			int amount = 9;
+			int[] x = { 1,2,5 ,6,9};
+			int amount = 11;
 			CoinChange(x, amount);
 		}
 
