@@ -1,6 +1,8 @@
 ﻿namespace RomanToInteger
 {
-	internal class Program
+
+    //https://leetcode.com/problems/roman-to-integer/
+    internal class Program
 	{
 		static void Main(string[] args)
 		{
@@ -18,12 +20,31 @@
 			map.Add('D', 500);
 			map.Add('M', 1000);	
 			int result = 0;
-			char[] chars = s.ToCharArray();
+            char[] chars = s.ToCharArray();
 
-			foreach (char c in chars)
+			for(int i = 0; i <= s.Length - 1; i++)
 			{
-				int val= map[c];
-				result = result + val;
+				int nextcurrentVal = 0;
+
+                 int currentVal=map[s[i]];
+				if (s.Length-1 != i)
+				{
+                     nextcurrentVal = map[s[i + 1]];
+				}
+				else { nextcurrentVal = 0; }
+				
+
+                if (currentVal < nextcurrentVal)
+				{
+					int x = nextcurrentVal - currentVal;
+                    result = result + x;
+					i++;
+				}
+				else
+				{
+                    result = result + currentVal;
+                }
+				
 			}
 			return result;
 
