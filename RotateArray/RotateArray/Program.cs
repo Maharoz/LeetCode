@@ -6,8 +6,8 @@
     {
         static void Main(string[] args)
         {
-            int[] x = { 1, 2, 3 };
-            Rotate(x, 4);
+            int[] x = { 10,20,30,40,50,60 };
+            Rotate(x, 2);
         }
 
         public static void Rotate(int[] nums, int k)
